@@ -39,7 +39,8 @@ Some new features that will possibly come:
 - Interface: add GUI
 
 ## License
-This project is currently under [MIT License](https://opensource.org/license/mit):
+This project is currently under [MIT License](https://opensource.org/license/mit)
+
 Copyright 2024 Joao Dreilich
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
@@ -53,7 +54,7 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 
 - [PyInstaller](https://pyinstaller.org/en/stable/)
 
-- [qrcode](https://github.com/lincolnloop/python-qrcode):
+- [qrcode](https://github.com/lincolnloop/python-qrcode)
 
 >Copyright (c) 2011, Lincoln Loop
 >All rights reserved.
@@ -102,7 +103,7 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 >DENSO WAVE INCORPORATED
 >http://www.denso-wave.com/qrcode/faqpatent-e.html
 
-- [Pillow](https://pillow.readthedocs.io/en/stable/):
+- [Pillow](https://pillow.readthedocs.io/en/stable/)
 
 >The Python Imaging Library (PIL) is
 >
