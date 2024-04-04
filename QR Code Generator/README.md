@@ -2,7 +2,7 @@
 
 ## About
 A simple QR (Quick Response) Code generator developed in Python for learning and practice purposes.
-It will upgrade with new functions and features along along with my progress studying the language (see [Roadmap](#roadmap))
+It will upgrade with new functions and features along with my progress studying the language (see [Roadmap](#roadmap))
 
 Developed in **Python 3.12**
 
