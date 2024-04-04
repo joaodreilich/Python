@@ -1,2 +1,4 @@
 # Python
- Open source Python projects
+Repository for my open source Python projects
+
+Author: Joao Dreilich
