@@ -8,14 +8,14 @@ Developed in Python **3.12**
 
 ## Libraries and Modules
 This project uses **qrcode** and **Pillow** modules:
-'''
+```
 pip install qrcode
 pip install Pillow
-'''
+```
 
 or
 
-'pip install qrcode[pil]'
+`pip install qrcode[pil]`
 
 ## Log
 04/04/2024: Initial commit
