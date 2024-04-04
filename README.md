@@ -1,10 +1,8 @@
 # Python
 Repository for my open source Python projects
 
-**Author:** Joao Dreilich
-
 # License
-All projects in this repo are under [MIT License](https://opensource.org/license/mit) (projects which dependencies require a different type of license will be disclaimed at README)
+All projects in this repository are under [MIT License](https://opensource.org/license/mit) (projects which dependencies require a different type of license will be disclaimed at README)
 
 Copyright 2024 Joao Dreilich
 
