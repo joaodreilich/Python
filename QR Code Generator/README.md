@@ -25,18 +25,23 @@ pip install pyinstaller
 ```
 
 ## Log
-04/04/2024: Initial commit
+| Date | Description |
+|------|-------------|
+| 04/04/2024 | Initial commit |
 
 ## Roadmap
-Some new features that will possibly come:
-- Output: PNG or SVG choice
-- Output: size choice
-- Output: destination folder selected by user
-- Generation: add color choice for QR Code
-- Generation: add logo in the center of QR Code
-- Generation: QR Code type (line, dot, square...)
-- Generation: QR Code color option
-- Interface: add GUI
+Future features:
+| Type | Description|
+|------|------------|
+| Input | Selection data type (url, plain text) |
+| Input | String treatment
+| QR Code Generation | QR Code type (line, dot, square...) |
+| QR Code Generation | Color option |
+| QR Code Generation | Add logo |
+| Output | PNG or SVG choice |
+| Output | Image or vector size |
+| Output | Output folder selection |
+| Interface | Add GUI |
 
 ## License
 This project is currently under [MIT License](https://opensource.org/license/mit)
