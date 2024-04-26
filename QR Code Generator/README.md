@@ -25,23 +25,24 @@ pip install pyinstaller
 ```
 
 ## Log
-| Date | Description |
-|------|-------------|
-| 04/04/2024 | Initial commit |
+| Date       | Description                                                     | Version |
+|------------|-----------------------------------------------------------------|---------|
+| 04/04/2024 | Initial commit                                                  | 0.01    |
+| 26/04/2024 | Add user input options and validation, string treatment for URL | 0.02    |
 
 ## Roadmap
 Future features:
-| Type | Description|
-|------|------------|
-| Input | Selection data type (url, plain text) |
-| Input | String treatment
-| QR Code Generation | QR Code type (line, dot, square...) |
-| QR Code Generation | Color option |
-| QR Code Generation | Add logo |
-| Output | PNG or SVG choice |
-| Output | Image or vector size |
-| Output | Output folder selection |
-| Interface | Add GUI |
+| Type               | Description                           | Added in version |
+|--------------------|---------------------------------------|------------------|
+| Input              | Selection data type (url, plain text) | 0.02             |
+| Input              | String treatment                      | 0.02             |
+| QR Code Generation | QR Code type (line, dot, square...)   |                  |
+| QR Code Generation | Color option                          |                  |
+| QR Code Generation | Add logo                              |                  |
+| Output             | PNG or SVG choice                     |                  |
+| Output             | Image or vector size                  |                  |
+| Output             | Output folder selection               |                  |
+| Interface          | Add GUI                               |                  |
 
 ## License
 This project is currently under [MIT License](https://opensource.org/license/mit)
