@@ -3,7 +3,7 @@ import qrcode
 
 
 # DECLARATIONS
-VERSION = '0.0.2'
+VERSION = '0.02'
 OPTIONS = ['0', '1', '2']
 
 
